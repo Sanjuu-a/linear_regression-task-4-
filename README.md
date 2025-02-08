@@ -9,7 +9,7 @@ Key Steps in the Project
 ✅ Feature Selection: Used correlation heatmaps to select the most influential factors
 ✅ Model Training: Implemented Linear Regression for prediction
 ✅ Evaluation Metrics: Measured Root Mean Squared Error (RMSE) and R² Score
-✅ Visualization:
+✅ Visualization
 
 * Plotted Actual vs Predicted Prices
 * Analyzed Feature Coefficients to understand their impact
