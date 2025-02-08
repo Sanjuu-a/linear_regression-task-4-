@@ -20,3 +20,6 @@ Results and Observations
 🔹 Distance from the airport and number of schools have a minor impact
 🔹 Model has some prediction errors, visible in the scatter plot below
 
+
+
+
